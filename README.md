@@ -60,6 +60,43 @@
 ![](https://github-readme-stats.vercel.app/api?username=ManeKarthikeya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=ManeKarthikeya&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeKarthikeya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ManeKarthikeya&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ManeKarthikeya">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManeKarthikeya&repo=NexNav&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ManeKarthikeya">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManeKarthikeya&repo=selflearn&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ManeKarthikeya">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManeKarthikeya&repo=AI-powered-Resume-Screening-Job-Matchmaker&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ManeKarthikeya">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManeKarthikeya&repo=REPO_NAME_3&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 🧠 Coding Profiles & Stats
+
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/y46Nv8rAvB?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+### 🟢 GeeksforGeeks Stats
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/manekarthi7qoh" />
+</p>
+
+---
+
+
 
 
