@@ -67,9 +67,6 @@
   <a href="https://github.com/ManeKarthikeya/NexNav">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManeKarthikeya&repo=NexNav&theme=tokyonight" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ManeKarthikeya/selflearn">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManeKarthikeya&repo=selflearn&theme=tokyonight" />
   </a>
