@@ -63,9 +63,10 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/ManeKarthikeya/ManeKarthikeya/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ManeKarthikeya/ManeKarthikeya/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ManeKarthikeya&label=Profile%20Views&pretty=true)
+![Profile Views](https://visitcount.itsvg.in/api?id=ManeKarthikeya)
+
 
