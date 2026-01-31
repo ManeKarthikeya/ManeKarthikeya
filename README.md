@@ -67,4 +67,5 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ManeKarthikeya&label=Profile%20Views&color=0&icon=5&pretty=true)
+![Profile Views](https://visitcount.itsvg.in/api?id=ManeKarthikeya&label=Profile%20Views&pretty=true)
+
