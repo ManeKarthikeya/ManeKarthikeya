@@ -70,9 +70,6 @@
   <a href="https://github.com/ManeKarthikeya">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManeKarthikeya&repo=selflearn&theme=tokyonight" />
   </a>
-  <a href="https://github.com/ManeKarthikeya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManeKarthikeya&repo=AI-powered-Resume-Screening-Job-Matchmaker&theme=tokyonight" />
-  </a>
 </p>
 
 <p align="center">
@@ -85,14 +82,9 @@
 
 ## 🧠 Coding Profiles & Stats
 
-### 🧠 LeetCode Stats
+### 🟢 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/y46Nv8rAvB?theme=dark&font=Fira%20Code&ext=contest" />
-</p>
-
-### 🟢 GeeksforGeeks Stats
-<p align="center">
-  <img src="https://gfgstatscard.vercel.app/manekarthi7qoh" />
 </p>
 
 ---
