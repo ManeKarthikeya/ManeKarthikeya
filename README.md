@@ -69,4 +69,12 @@
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=ManeKarthikeya)
 
+---
+
+## 📈 3D Contribution Graph
+
+![](https://raw.githubusercontent.com/ManeKarthikeya/ManeKarthikeya/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 
