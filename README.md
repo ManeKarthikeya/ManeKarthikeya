@@ -61,16 +61,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/ManeKarthikeya/ManeKarthikeya/output/github-contribution-grid-snake-dark.svg)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=ManeKarthikeya)
-
----
-
 ## 📈 3D Contribution Graph
 
 ![](https://raw.githubusercontent.com/ManeKarthikeya/ManeKarthikeya/main/profile-3d-contrib/profile-night-rainbow.svg)
